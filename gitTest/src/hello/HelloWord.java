@@ -6,4 +6,9 @@ public class HelloWord {
 	{
 		System.out.println("Hello");
 	}
+	
+	private static void helper()
+	{
+		
+	}
 }
