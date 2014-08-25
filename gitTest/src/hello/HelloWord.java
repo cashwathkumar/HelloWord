@@ -10,5 +10,6 @@ public class HelloWord {
 	private static void helper()
 	{
 		System.out.println("help");
+		System.out.println("now");
 	}
 }
